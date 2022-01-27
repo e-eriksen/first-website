@@ -1,0 +1,28 @@
+body {
+  background-color: #112D4E;
+  color: dodgerblue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: grey;
+}
+
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+
+a:link{
+  color: #646464;
+}
+
+a:visited{
+  color: #646464;
+}
+
+a:hover{
+  color: grey;
+}
